@@ -11,7 +11,7 @@ then the transmitter signals that it has data for transmission and
 it wants to participate in the next arbitration event (which is done 
 every rising clock edge). A top-level picture of the arbiter is 
 shown in the next figure.
-![alt text](images/arbiter-top.png "Top-level of the arbiter")
+![alt text](images/arbiter_top.png "Top-level of the arbiter")
 
 The logic inside each stage is shown in the next figure.
 ![alt text](images/arbiter.png "Stage logic")
