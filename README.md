@@ -17,8 +17,9 @@ The logic inside each stage is shown in the next figure.
 ![alt text](images/arbiter.png "Stage logic")
 
 ## Testing
-The component has been tested and simulated using the following tool:
+The component has been tested and simulated using the following tools:
 - Mentor Graphics ModelSim PE 10.3
+- Xilinx ISim 14.7
 
 
 ## License
